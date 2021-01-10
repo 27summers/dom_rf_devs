@@ -72,4 +72,4 @@ for _ in range(how_many_push_prev_arrow+1): ###DO NOT FORGET TO FIX
     driver.implicitly_wait(7)
 
 
-
+"""Later in the future add code which will remove excel_files folder after scraping is done"""
